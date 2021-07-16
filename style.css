@@ -1,0 +1,29 @@
+body{
+
+    
+}
+
+.general{
+    height: 30em;
+    background-color: green;
+    padding-top: 0.1px;
+    width: 20em;
+    border-radius: 10px;
+    box-shadow: black 3px 3px 10px;
+    
+}
+
+.title{
+    height: 8%;
+    margin-top: 0px;
+    text-align: center;
+    border-bottom: black solid;
+    
+}
+
+.preenchimento{
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
