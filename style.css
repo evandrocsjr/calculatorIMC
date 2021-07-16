@@ -32,8 +32,8 @@ main{
     margin-bottom: 10px;
 }
 
-input{
-    display:inline-table;
+.input{
+    display:flex;
     width: 300px;
     height: 50px;
     align-items: center;
