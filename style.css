@@ -55,7 +55,7 @@ main{
     font: bold 1.2rem georgia;
 }
 
-.button{
+button{
     width: 70%;
     height: 8%;
     border-radius: 5px;
